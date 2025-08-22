@@ -1,8 +1,12 @@
-# 👋 Thanks for stopping by. Hristijan Chupetreski.
+# Hi 👋. Thanks for stopping by. I'm Hristijan Chupetreski.
 
+Entering the coding and programming world.
 Finishing my **Bachelor's in Computer Science (English Program)** at **FAMNIT, University of Primorska (Koper, Slovenia)**  
-Passionate about **software development,WebDev and DevOps**  
-Always learning, always building.  
+Starting to like **software development,WebDev and DevOps**  
+
+Always improving, always using stack overflow , always debugging 
+
+Never serious, learning anyways
 
 ---
 
