@@ -1,25 +1,26 @@
 # 👋 Thanks for stopping by. Hristijan Chupetreski.
 
-🎓 Finishing my **Bachelor's in Computer Science (English Program)** at **FAMNIT, University of Primorska (Koper, Slovenia)**  
-💡 Passionate about **software development, distributed systems, and DevOps**  
-🚀 Always learning, always building.  
+Finishing my **Bachelor's in Computer Science (English Program)** at **FAMNIT, University of Primorska (Koper, Slovenia)**  
+Passionate about **software development,WebDev and DevOps**  
+Always learning, always building.  
 
 ---
 
-## 📊 GitHub Stats (2025)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=false)
+## GitHub Stats (2025)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cupetre&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupetre&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=cupetre&theme=radical&hide_border=false)
 
 ---
 
-## 🛠️ Skills & Knowledge
+## Skills & Knowledge
 
 **Languages & Web:**  
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -28,39 +29,32 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)  
 
 **Other Areas of Experience:**  
-- 🔐 Encryption / Decryption of message & package flows  
-- ⚡ Virtual Environments (Python, Django)  
-- 📦 DevOps practices and CI/CD fundamentals  
-- 🌍 Cloud deployments with **AWS (Lambda, DynamoDB, Elastic Beanstalk, Step Functions)**  
-
+- Encryption / Decryption of message & package flows  
+- Virtual Environments (Python, Django)  
+- DevOps practices and CI/CD fundamentals  
+- Cloud deployments with **AWS (Lambda, DynamoDB, Elastic Beanstalk, Step Functions)**
 ---
 
-## 📂 Featured Projects
-🔹 **Peer-to-Peer Communication System (Java + Docker)**  
-➡️ Scalable containerized system with socket-based messaging.  
+## Featured Projects
+**Peer-to-Peer Communication System (Onion Routing Prototype)**  
+Scalable containerized system with a mixnet of nodes and socket-based messaging secured with a centralized hybrid AES + RSA encryption.  
 
-🔹 **Onion Routing Prototype**  
-➡️ Privacy-focused network built in Java with layered encryption.  
+**Student Trade Platform**  
+React frontend + JavaScript + MySQL for buying/selling items among students.  
 
-🔹 **Student Trade Platform**  
-➡️ React frontend + Django REST backend + MySQL for buying/selling items among students.  
+**Game Development with Unity (C#)**  
+Worked in teams to design and develop games using Unity with C# Scripting.
 
-🔹 **Web Design & Development Projects**  
-➡️ Built responsive websites with **React, HTML, CSS, Django virtual environments**.  
-
----
-
-## 🌱 Currently Exploring
-- DevOps pipelines & infrastructure automation  
+## Currently Exploring
 - Advanced distributed systems with Docker networks  
-- Cloud-native architectures on AWS  
+- Cloud-native architectures on AWS
+- SpringBoot dependencies and their functionality  
 
 ---
 
-## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/hristijan-chupetreski-70001a29b/)]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cupetre_kiko@yahoo.com)  
 
 ---
 
