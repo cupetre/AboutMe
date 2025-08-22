@@ -6,10 +6,7 @@ Always learning, always building.
 
 ---
 
-## GitHub Stats (2025)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cupetre&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupetre&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=cupetre&theme=radical&hide_border=false)
 
 ---
 
@@ -27,6 +24,8 @@ Always learning, always building.
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupetre&layout=compact&theme=radical)  
 
 **Other Areas of Experience:**  
 - Encryption / Decryption of message & package flows  
@@ -46,6 +45,10 @@ React frontend + JavaScript + MySQL for buying/selling items among students.
 - Advanced distributed systems with Docker networks  
 - SpringBoot dependencies and their functionality
 - Website development and design
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cupetre&theme=radical&hide_border=false)
 
 ---
 
