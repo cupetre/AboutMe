@@ -2,8 +2,9 @@
 
 Entering the coding and programming world.
 
-Finishing my **Bachelor's in Computer Science (English Program)** at **FAMNIT, University of Primorska (Koper, Slovenia)**  
-Starting to like **software development,WebDev and DevOps**  
+Finishing my Bachelor's in Computer Science (English Program) at FAMNIT, University of Primorska (Koper, Slovenia)
+
+Starting to like Software development,WebDev and DevOps  
 
 Always improving, always using stack overflow , always debugging 
 
