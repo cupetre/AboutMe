@@ -42,13 +42,10 @@ Scalable containerized system with a mixnet of nodes and socket-based messaging 
 **Student Trade Platform**  
 React frontend + JavaScript + MySQL for buying/selling items among students.  
 
-**Game Development with Unity (C#)**  
-Worked in teams to design and develop games using Unity with C# Scripting.
-
 ## Currently Exploring
 - Advanced distributed systems with Docker networks  
-- Cloud-native architectures on AWS
-- SpringBoot dependencies and their functionality  
+- SpringBoot dependencies and their functionality
+- Website development and design
 
 ---
 
@@ -58,4 +55,4 @@ Worked in teams to design and develop games using Unity with C# Scripting.
 
 ---
 
-⭐️ *"Code. Break. Fix. Learn. Repeat."*  
+*"Code. Break. Fix. Learn. Repeat."*  
