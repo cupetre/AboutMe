@@ -26,14 +26,14 @@ Never serious, learning anyways
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupetre&layout=compact&theme=radical)  
-
 **Other Areas of Experience:**  
 - Encryption / Decryption of message & package flows  
 - Virtual Environments (Python, Django)  
 - DevOps practices and CI/CD fundamentals  
 - Cloud deployments with **AWS (Lambda, DynamoDB, Elastic Beanstalk, Step Functions)**
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupetre&layout=compact&theme=radical)  
 
 ## Featured Projects
 **Peer-to-Peer Communication System (Onion Routing Prototype)**  
