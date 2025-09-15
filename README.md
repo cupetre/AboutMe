@@ -43,9 +43,10 @@ Scalable containerized system with a mixnet of nodes and socket-based messaging 
 React frontend + JavaScript + MySQL for buying/selling items among students.  
 
 ## Currently Exploring
-- Advanced distributed systems with Docker networks  
-- SpringBoot dependencies and their functionality
-- Website development and design
+- Advanced distributed systems with Docker networks and development of a mixer/proxy server for thesis
+- SpringBoot dependencies and their functionality mainly through online courses and upgrading projects
+- Development and design on a student marketplace website
+- Machine Learning and Data Science in Python
 
 ---
 
