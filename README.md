@@ -48,7 +48,7 @@ React frontend + JavaScript + MySQL for buying/selling items among students.
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cupetre&theme=radical&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cupetre&theme=radical&hide_border=false)]
 
 ---
 
