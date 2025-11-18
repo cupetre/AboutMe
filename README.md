@@ -44,7 +44,7 @@ React frontend + JavaScript + MySQL for buying/selling items among students.
 - Advanced distributed systems with Docker networks and development of a mixer/proxy server for thesis
 - SpringBoot dependencies and their functionality mainly through online courses and upgrading projects
 - Development and design on a student marketplace website
-- Machine Learning and Data Science in Python
+- Integration of higher-class systems, frameworks as well as .NET & Angular
 
 ---
 
